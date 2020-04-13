@@ -4,7 +4,7 @@ Codenames is an application that takes the board game to the virtual world!
 Tajni Ludzie to aplikacja, która przenosi grę planszową do wirtualnego świata!
 
 <p align="center">
-  <img width="400" src="https://github.com/PawelMiera/Tajniacy/blob/master/background.png">
+  <img width="800" src="https://github.com/PawelMiera/Tajniacy/blob/master/background.png">
 </p>
 
 The game is available in three languages:  
