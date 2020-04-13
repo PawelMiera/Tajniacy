@@ -5,7 +5,7 @@ Tajni Ludzie to aplikacja, która przenosi grę planszową do wirtualnego świat
 ![](background.png){:height="50%" width="50%"}
 
 <p align="center">
-  <img width="800" height="500" src="https://github.com/PawelMiera/Tajniacy/edit/master/background.png">
+  <img width="400" src="https://github.com/PawelMiera/Tajniacy/edit/master/background.png">
 </p>
 
 The game is available in three languages:  
