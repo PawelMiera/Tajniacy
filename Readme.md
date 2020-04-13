@@ -6,6 +6,6 @@ Tajni Ludzie to aplikacja, która przenosi grę planszową do wirtualnego świat
 
 
 The game is available in three languages:  
-English: https://play.google.com/store/apps/details?id=com.pierogi_attack_studios.codenames
+English: https://play.google.com/store/apps/details?id=com.pierogi_attack_studios.codenames  
 Poski: https://play.google.com/store/apps/details?id=com.pierogistudios.tajniludzie  
 Deutsch: https://play.google.com/store/apps/details?id=com.pierogi_attack_studios_de.codenames  
